@@ -1,0 +1,1 @@
+uadp is a platform for software updates and distribution purposes. This is the server side part designed for the server which hosts the update and distribution packages of a software
